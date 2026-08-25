@@ -12,8 +12,12 @@ Welcome to my GitHub profile! I'm a versatile Software Engineer with experience 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,aws,tailwind,mongodb,postgres,graphql,redux,git,vscode,vercel,docker,figma,html,css" alt="Technologies & Tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,aws,azure,tailwind,mongodb,postgres,mysql,graphql,redux,git,vscode,vercel,docker,figma,html,css,py,postman,powershell,supabase,vite,php,vue&perline=12" alt="Technologies & Tools" />
   </a>
+  <br />
+  <img height="48" src="https://cdn.simpleicons.org/slack/4A154B" alt="Slack" />
+  <img height="48" src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" />
+  <img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" />
 </p>
 
 ---
